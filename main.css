@@ -1,0 +1,44 @@
+body, body * {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+body {
+
+	background-color: black;
+}
+
+
+div {
+
+font-family:Trebuchet MS;
+letter-spacing: 10px;
+word-spacing: 4px;
+font-size: 80px;
+color:hotpink;
+text-align: center;
+z-index: 2;
+padding-right: -100px;
+padding-left:-100px;
+margin-right: 0px;
+margin-left: 0px;
+
+
+}
+
+
+
+
+a {
+    color: white;
+    
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
